@@ -1,4 +1,4 @@
-# ReviewsClassification
+# Social Media Comments Classification - Toxicity Detection
 
 This notebook fine tunes BERT, the text classification model.
 
